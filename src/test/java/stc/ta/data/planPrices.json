@@ -1,0 +1,15 @@
+[
+  {
+    "sa-lite-price": "15",
+    "sa-classic-price": "25",
+    "sa-premium-price": "60",
+
+    "bh-lite-price": "2",
+    "bh-classic-price": "3",
+    "bh-premium-price": "6"
+
+    "kw-lite-price": "1.2",
+    "kw-classic-price": "2.5",
+    "kw-premium-price": "4.8"
+  }
+]
