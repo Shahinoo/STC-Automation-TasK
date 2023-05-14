@@ -1,5 +1,5 @@
 ﻿# STC-Automation-TasK
-Test Automation framework using Java, Selenium, TestNG, Cucumber BDD and Gherkin for automating Jawwy website
+Test Automation framework using Java, Selenium, TestNG, Cucumber BDD and Gherkin for automating stctv website
 # Tools and contents:
 This is Java based project, 
 - selenium webdriver for find and interact with locators, 
